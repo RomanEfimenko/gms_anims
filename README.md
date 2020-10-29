@@ -15,7 +15,11 @@ b beginning value
 c change in value
  
 d duration
- 
+
+
+functions graphics
+
+https://gist.github.com/gre/1650294
  
 
 vector graphics
